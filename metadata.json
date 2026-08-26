@@ -1,0 +1,8 @@
+{
+  "description": "Puts a window in a new workspace when maximized or full-screened, inserting the new workspace immediately to the right of the current one (pushing existing workspaces to the right), and brings you back to the original workspace when unmaximized, unfull-screened, or the window is closed. Empty workspaces are automatically cleaned up.",
+  "name": "Sofidev Maximize To Workspace",
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "url": "https://github.com/SofiDevO/sofidev-maximize-to-workspace",
+  "uuid": "sofidev-maximize-to-workspace@SofiDevO",
+  "version": 1
+}
